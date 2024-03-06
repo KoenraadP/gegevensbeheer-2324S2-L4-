@@ -1,0 +1,50 @@
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.Migrations.InitialCreate.resources
+C:\Users\koenraad.pecceu\Documents\eenvoudige functionaliteiten\les13\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.GenerateResource.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.Migrations.InitialCreate.resources
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.GenerateResource.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.Migrations.AddActivitiesTable.resources
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les02\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.Migrations.MemberActivities.resources
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll.config
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\SportsClub.Entities.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.CopyComplete
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.dll
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.pdb
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.Migrations.CreateDatabase.resources
+C:\Users\koenraad.pecceu\Documents\gegevensbeheer\Les03\SportsClub\SportsClub.Dal\obj\Debug\SportsClub.Dal.csproj.GenerateResource.cache
