@@ -11,6 +11,15 @@ namespace SportsClub.Bll
     public static class Members
     {
         // CREATE
+        public static bool Create(string firstName, string lastName)
+        {
+            // nieuwe member aanmaken met gegevens uit parameters
+            Member m = new Member(firstName, lastName);
+            // create methode uit dal uitvoeren
+            bool createSuccessful = MemberDal.Create(m);
+            // true of false als return geven
+            return createSuccessful;
+        }
 
         // READ ALL
         public static List<Member> Read()

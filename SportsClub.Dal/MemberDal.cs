@@ -15,6 +15,23 @@ namespace SportsClub.Dal
     public static class MemberDal
     {
         // CREATE
+        public static bool Create(Member m)
+        {
+            using (var db = new SportsClubDbContext())
+            {
+                // m toevoegen aan databank (klaarzetten)
+                db.Members.Add(m);
+                // verandering effectief doorvoeren in db
+                // aantal wijzigingen opslaan in variabele
+                int numberOfChanges = db.SaveChanges();
+                // als er meer dan 0 wijzigingen zijn, dan is het gelukt
+                if (numberOfChanges > 0)
+                {
+                    return true;
+                }
+                return false;
+            }
+        }
 
         // READ ALL
         public static List<Member> Read()
