@@ -23,12 +23,24 @@ namespace SportsClub.Dal
             using (var db = new SportsClubDbContext())
             {
                 // lijst van members uit db halen
+                // select * from...
                 List<Member> lstMembers = db.Members.ToList();
                 return lstMembers;
             }
         }
 
         // READ SINGLE
+        public static Member Read(int id)
+        {
+            // verbinding met databank maken
+            using (var db = new SportsClubDbContext())
+            {
+                // record van member opzoeken op basis van id
+                Member m = db.Members.Find(id);
+                // member als return waarde geven
+                return m;
+            }
+        }
 
         // UPDATE
 

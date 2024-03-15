@@ -21,6 +21,13 @@ namespace SportsClub.Bll
         }
 
         // READ SINGLE
+        public static Member Read(int id)
+        {
+            // member opzoeken met dal methode
+            Member m = MemberDal.Read(id);
+            // member als return geven
+            return m;
+        }
 
         // UPDATE
 

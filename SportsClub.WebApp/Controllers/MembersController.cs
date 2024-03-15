@@ -23,6 +23,13 @@ namespace SportsClub.WebApp.Controllers
         }
 
         // READ SINGLE
+        public ActionResult Details(int id)
+        {
+            // Read methode uit BLL gebruiken om member op te zoeken
+            Member m = Members.Read(id);
+            // Member m doorgeven aan view
+            return View(m);
+        }
 
         // UPDATE
 
