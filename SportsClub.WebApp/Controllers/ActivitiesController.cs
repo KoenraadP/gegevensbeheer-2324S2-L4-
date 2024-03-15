@@ -18,5 +18,11 @@ namespace SportsClub.WebApp.Controllers
             // lijst van members doorsturen naar Index View pagina
             return View(lstActivities);
         }
+
+        public ActionResult Details(int id)
+        {
+            Activity a = Activities.Read(id);
+            return View(a);
+        }
     }
 }

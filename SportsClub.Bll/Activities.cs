@@ -21,6 +21,17 @@ namespace SportsClub.Bll
         }
 
         // READ SINGLE
+        public static Activity Read(int id)
+        {
+            Activity a = ActivityDal.Read(id);
+
+            if (a == null)
+            {
+                a = new Activity();
+            }
+
+            return a;
+        }
 
         // UPDATE
 

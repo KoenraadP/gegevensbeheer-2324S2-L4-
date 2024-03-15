@@ -24,6 +24,17 @@ namespace SportsClub.Dal
         }
 
         // READ SINGLE
+        public static Activity Read(int id)
+        {
+            // verbinding met databank maken
+            using (var db = new SportsClubDbContext())
+            {
+                // record van member opzoeken op basis van id
+                Activity a = db.Activities.Find(id);
+                // member als return waarde geven
+                return a;
+            }
+        }
 
         // UPDATE
 

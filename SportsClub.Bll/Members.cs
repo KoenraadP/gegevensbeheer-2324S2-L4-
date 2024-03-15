@@ -25,6 +25,13 @@ namespace SportsClub.Bll
         {
             // member opzoeken met dal methode
             Member m = MemberDal.Read(id);
+
+            // als member niet bestaat (null) dan blanco member aanmaken
+            if (m == null)
+            {
+                m = new Member();
+            }
+
             // member als return geven
             return m;
         }
